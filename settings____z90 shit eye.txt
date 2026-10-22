@@ -1,3 +1,1 @@
-﻿// if using a default character this needs to be paired with ___Default.vrm
-
-//refer to settings_Example for the rest.
+﻿ModelScale=1.0
