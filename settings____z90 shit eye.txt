@@ -1,1 +1,2 @@
 ﻿ModelScale=1.0
+SittingOnChairOffset=<0, 0, 0>
